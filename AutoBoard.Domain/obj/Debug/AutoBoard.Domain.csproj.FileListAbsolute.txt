@@ -1,0 +1,6 @@
+C:\Temp\Code\Prometric2\AutoBoard.Domain\obj\Debug\AutoBoard.Domain.csproj.CoreCompileInputs.cache
+C:\Temp\Code\Prometric2\AutoBoard.Domain\bin\Debug\AutoBoard.Domain.dll
+C:\Temp\Code\Prometric2\AutoBoard.Domain\bin\Debug\AutoBoard.Domain.pdb
+C:\Temp\Code\Prometric2\AutoBoard.Domain\obj\Debug\AutoBoard.Domain.dll
+C:\Temp\Code\Prometric2\AutoBoard.Domain\obj\Debug\AutoBoard.Domain.pdb
+C:\Temp\Code\Prometric2\AutoBoard.Domain\obj\Debug\AutoBoard.Domain.csprojAssemblyReference.cache

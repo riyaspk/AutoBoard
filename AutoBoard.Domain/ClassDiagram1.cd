@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AutoBoard.Domain.Bicycle">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAIAAACAAAABAAAAAAAAECAA=</HashCode>
+      <FileName>Bicycle\Bicycle.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="BicycleModel" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="AutoBoard.Domain.BicycleModel">
+    <Position X="3.25" Y="6.75" Width="2" />
+    <InheritanceLine Type="AutoBoard.Domain.Model" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="7.125" Y="2.18" />
+        <Point X="7.125" Y="6" />
+        <Point X="4.188" Y="6" />
+        <Point X="4.188" Y="6.75" />
+      </Path>
+    </InheritanceLine>
+    <AssociationLine Name="BicycleType" Type="AutoBoard.Domain.BicycleType" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.25" Y="8.25" />
+        <Point X="6.5" Y="8.25" />
+        <Point X="6.5" Y="7.739" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAACBgAAEAAAAAAACACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bicycle\BicycleModel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="BicycleType" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="AutoBoard.Domain.Make">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Make.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoBoard.Domain.Model">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAIQAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoBoard.Domain.ShipModel">
+    <Position X="0.5" Y="6.75" Width="2" />
+    <InheritanceLine Type="AutoBoard.Domain.Model" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="7.125" Y="2.18" />
+        <Point X="7.125" Y="6" />
+        <Point X="3.74" Y="6" Type="JumpStart" />
+        <Point X="3.573" Y="6" Type="JumpEnd" />
+        <Point X="1.438" Y="6" />
+        <Point X="1.438" Y="6.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Ship\ShipModel.cs</FileName>
+      <NewMemberFileName>MotorVehicle\MotorVehicleModel.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoBoard.Domain.Ship">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <AssociationLine Name="Model" Type="AutoBoard.Domain.Model" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.875" Y="3.5" />
+        <Point X="5.875" Y="1.347" />
+        <Point X="6.25" Y="1.347" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAMRAAAAAAAAAAAgAAAAEAAA=</HashCode>
+      <FileName>Ship\Ship.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Model" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="AutoBoard.Domain.Vehicle">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAACAEFAAAAAAAAAAAAAAIEAAA=</HashCode>
+      <FileName>Vehicle.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Make" />
+    </ShowAsAssociation>
+  </Class>
+  <Enum Name="AutoBoard.Domain.BicycleType">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Bicycle\BicycleType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,14 @@
+C:\Temp\Code\Prometric2\AutoBoard.DAL\bin\Debug\AutoBoard.DAL.dll
+C:\Temp\Code\Prometric2\AutoBoard.DAL\bin\Debug\AutoBoard.DAL.pdb
+C:\Temp\Code\Prometric2\AutoBoard.DAL\obj\Debug\AutoBoard.DAL.csprojAssemblyReference.cache
+C:\Temp\Code\Prometric2\AutoBoard.DAL\obj\Debug\AutoBoard.DAL.csproj.CoreCompileInputs.cache
+C:\Temp\Code\Prometric2\AutoBoard.DAL\obj\Debug\AutoBoard.DAL.dll
+C:\Temp\Code\Prometric2\AutoBoard.DAL\obj\Debug\AutoBoard.DAL.pdb
+C:\Temp\Code\Prometric2\AutoBoard.DAL\bin\Debug\AutoBoard.DAL.dll.config
+C:\Temp\Code\Prometric2\AutoBoard.DAL\bin\Debug\AutoBoard.Domain.dll
+C:\Temp\Code\Prometric2\AutoBoard.DAL\bin\Debug\EntityFramework.dll
+C:\Temp\Code\Prometric2\AutoBoard.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Temp\Code\Prometric2\AutoBoard.DAL\bin\Debug\AutoBoard.Domain.pdb
+C:\Temp\Code\Prometric2\AutoBoard.DAL\bin\Debug\EntityFramework.xml
+C:\Temp\Code\Prometric2\AutoBoard.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Temp\Code\Prometric2\AutoBoard.DAL\obj\Debug\AutoBoard.DAL.csproj.CopyComplete
